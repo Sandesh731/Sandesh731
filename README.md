@@ -70,7 +70,7 @@ I work at the intersection of machine learning, data science, NLP, and scalable 
 ## 🌟 Featured Projects
 
 - [Fake Internship & Job Scam Detection System](https://github.com/Sandesh731/fake-internship-job-scam-detection-system) — ML-powered scam detection with scraping and hybrid scoring
-- [Resume Skill Matching Engine](https://github.com/Sandesh731/resume-skill-matching-engine) — Intelligent resume analysis and job-role matching
+- [Resume Skill Matching Engine]() — Intelligent resume analysis and job-role matching
 - [Restaurant Review Intelligence](https://github.com/Sandesh731/restaurant-review-intelligence) — NLP-driven review analytics and dashboarding
 - [Graphura CRO Intelligence Dashboard](https://github.com/Sandesh731/graphura-cro-intelligence-dashboard) — CRO-focused analytics and reporting dashboard
 - [Graphura SEO Intelligence](https://github.com/Sandesh731/graphura-seo-intelligence) — SEO insights and content intelligence platform
@@ -90,7 +90,7 @@ I work at the intersection of machine learning, data science, NLP, and scalable 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-rathod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeshrathod731)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh731)
 
 </div>
