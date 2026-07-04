@@ -20,7 +20,7 @@ I'm an **AI Engineer and Data Scientist** with a passion for building production
 - Writing **professional, production-grade code**
 
 ### 🎓 Education
-- **B.Tech in Artificial Intelligence** | GNIET, Nagpur (RTMNU)
+- **B.Tech in Artificial Intelligence** | GNIET, Nagpur
 - Specialization in Machine Learning, NLP, and AI Systems
 
 ---
@@ -61,11 +61,11 @@ I'm an **AI Engineer and Data Scientist** with a passion for building production
 
 <div align="center">
 
-[![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandesh-rathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sandesh-rathod)
+[![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandesh731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sandesh731)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-rathod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/sandesh-rathod)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh731&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Sandesh731)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandesh-rathod&theme=tokyonight&hide_border=true)](https://github.com/sandesh-rathod)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandesh731&theme=tokyonight&hide_border=true)](https://github.com/Sandesh731)
 
 </div>
 
@@ -80,13 +80,13 @@ I'm an **AI Engineer and Data Scientist** with a passion for building production
   <h3>GenReviewAI</h3>
   <p>QR-code-driven Google review generation platform with FTC-compliant architecture</p>
   <p><strong>Tech:</strong> FastAPI, NLP, React, PostgreSQL</p>
-  <p><a href="https://github.com/sandesh-rathod/genreviewai">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/genreviewai">View Project →</a></p>
 </td>
 <td width="50%">
   <h3>Fake Internship & Job Scam Detection</h3>
   <p>ML-powered scam detection system with multi-site scraping and hybrid scoring</p>
   <p><strong>Tech:</strong> Flask, Random Forest, TF-IDF, Web Scraping</p>
-  <p><a href="https://github.com/sandesh-rathod/scam-detection">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/scam-detection">View Project →</a></p>
 </td>
 </tr>
 <tr>
@@ -94,13 +94,13 @@ I'm an **AI Engineer and Data Scientist** with a passion for building production
   <h3>Resume & Skill Matcher</h3>
   <p>Intelligent resume analysis matching candidates to 13 job roles</p>
   <p><strong>Tech:</strong> Streamlit, ML Scoring, PDF Processing</p>
-  <p><a href="https://github.com/sandesh-rathod/resume-matcher">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/resume-matcher">View Project →</a></p>
 </td>
 <td width="50%">
   <h3>Restaurant Review Intelligence (RRI)</h3>
   <p>Multi-platform NLP-powered review analytics dashboard</p>
   <p><strong>Tech:</strong> NLP, Python, Web Scraping, Data Analysis</p>
-  <p><a href="https://github.com/sandesh-rathod/rri">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/rri">View Project →</a></p>
 </td>
 </tr>
 </table>
@@ -137,10 +137,10 @@ Currently diving deep into:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-rathod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesh-rathod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeshrathod731/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-Sandeshrathod731@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sandesh731)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh731)
 
 </div>
 
@@ -158,7 +158,7 @@ Currently diving deep into:
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandesh-rathod&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00sharma/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandesh731&theme=tokyo-night&hide_border=true)](https://github.com/Sandesh731)
 
 ---
 
@@ -166,9 +166,9 @@ Currently diving deep into:
 
 **Let's build something amazing together!** 🚀
 
-[View My Repositories](https://github.com/sandesh-rathod?tab=repositories) | [Open Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Asandesh-rathod)
+[View My Repositories](https://github.com/Sandesh731?tab=repositories) | [Open Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3ASandesh731)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sandesh-rathod&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Sandesh731&color=blueviolet)
 
 </div>
 
