@@ -12,12 +12,16 @@
 
 I'm an **AI Engineer and Data Scientist** with a passion for building production-ready intelligent systems. I specialize in machine learning, NLP, and scalable backend architectures using Python and modern cloud technologies.
 
-### 💼 Current Focus
-- Building scalable **AI/ML applications** in production environments
-- Designing and deploying **machine learning pipelines**
-- Developing **NLP solutions** and automation systems
-- Creating **data-driven analytics platforms**
-- Writing **professional, production-grade code**
+## 📚 Learning & Growth
+
+Currently diving deep into:
+- 🎓 Scalable AI system architecture
+- 📊 Advanced ML operations & MLOps
+- 🧠 Large Language Models & fine-tuning
+- ⚡ Production ML deployment strategies
+- 🏗️ Microservices & cloud-native design
+
+---
 
 ### 🎓 Education
 - **B.Tech in Artificial Intelligence** | GNIET, Nagpur
@@ -110,28 +114,6 @@ I'm an **AI Engineer and Data Scientist** with a passion for building production
 - **SEO Intelligence Platform** - Keyword research system with Power BI dashboards
 - **Content Calendar Intelligence** - ML-powered social media planning
 
----
-
-## 🌟 Key Achievements
-
-✅ **Production-Ready Applications** - Built and deployed multiple AI systems serving real users  
-✅ **Data Engineering** - Designed scalable data pipelines for multi-platform data collection  
-✅ **Full-Stack Development** - From ML models to frontend interfaces, end-to-end ownership  
-✅ **Documentation Excellence** - Comprehensive technical documentation for all projects  
-✅ **Open Source Contributor** - Active participation in AI/ML community projects  
-
----
-
-## 📚 Learning & Growth
-
-Currently diving deep into:
-- 🎓 Scalable AI system architecture
-- 📊 Advanced ML operations & MLOps
-- 🧠 Large Language Models & fine-tuning
-- ⚡ Production ML deployment strategies
-- 🏗️ Microservices & cloud-native design
-
----
 
 ## 🤝 Let's Connect
 
