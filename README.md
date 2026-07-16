@@ -84,7 +84,7 @@ Currently diving deep into:
   <h3>GenReviewAI</h3>
   <p>QR-code-driven Google review generation platform with FTC-compliant architecture</p>
   <p><strong>Tech:</strong> FastAPI, NLP, React, PostgreSQL</p>
-  <p><a href="(https://github.com/GenreviewAI/GenReviewAI)">View Project →</a></p>
+  <p><a href="https://github.com/GenreviewAI/GenReviewAI">View Project →</a></p>
 </td>
 <td width="50%">
   <h3>Fake Internship & Job Scam Detection</h3>
