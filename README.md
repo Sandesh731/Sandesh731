@@ -84,7 +84,7 @@ Currently diving deep into:
   <h3>GenReviewAI</h3>
   <p>QR-code-driven Google review generation platform with FTC-compliant architecture</p>
   <p><strong>Tech:</strong> FastAPI, NLP, React, PostgreSQL</p>
-  <p><a href="https://github.com/Sandesh731/genreviewai">View Project →</a></p>
+  <p><a href="(https://github.com/GenreviewAI/GenReviewAI)">View Project →</a></p>
 </td>
 <td width="50%">
   <h3>Fake Internship & Job Scam Detection</h3>
@@ -99,12 +99,6 @@ Currently diving deep into:
   <p>Intelligent resume analysis matching candidates to 13 job roles</p>
   <p><strong>Tech:</strong> Streamlit, ML Scoring, PDF Processing</p>
   <p><a href="https://github.com/Sandesh731/resume-matcher">View Project →</a></p>
-</td>
-<td width="50%">
-  <h3>Restaurant Review Intelligence (RRI)</h3>
-  <p>Multi-platform NLP-powered review analytics dashboard</p>
-  <p><strong>Tech:</strong> NLP, Python, Web Scraping, Data Analysis</p>
-  <p><a href="https://github.com/Sandesh731/rri">View Project →</a></p>
 </td>
 </tr>
 </table>
