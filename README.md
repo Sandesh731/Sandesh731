@@ -90,7 +90,7 @@ Currently diving deep into:
   <h3>Fake Internship & Job Scam Detection</h3>
   <p>ML-powered scam detection system with multi-site scraping and hybrid scoring</p>
   <p><strong>Tech:</strong> Flask, Random Forest, TF-IDF, Web Scraping</p>
-  <p><a href="https://github.com/Sandesh731/scam-detection">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/Intern-Portfolio-Readiness-Scorer">View Project →</a></p>
 </td>
 </tr>
 <tr>
@@ -98,13 +98,13 @@ Currently diving deep into:
   <h3>Resume & Skill Matcher</h3>
   <p>Intelligent resume analysis matching candidates to 13 job roles</p>
   <p><strong>Tech:</strong> Streamlit, ML Scoring, PDF Processing</p>
-  <p><a href="https://github.com/Sandesh731/resume-matcher">View Project →</a></p>
+  <p><a href="https://github.com/Sandesh731/resume-skill-matching-engine">View Project →</a></p>
 </td>
 </tr>
 </table>
 
 ### 💼 Backend & APIs
-- **ContactIQ** - AI-powered contact intelligence SaaS (NestJS, Next.js, FastAPI)
+- **<a href="https://github.com/Sandesh731/contactiq-web">ContactIQ</a>** - AI-powered contact intelligence SaaS (Next.js 15, Supabase, Stripe)
 - **SEO Intelligence Platform** - Keyword research system with Power BI dashboards
 - **Content Calendar Intelligence** - ML-powered social media planning
 
@@ -114,7 +114,7 @@ Currently diving deep into:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeshrathod731/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-Sandeshrathod731@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sandeshrathod731@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sandesh731)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh731)
 
